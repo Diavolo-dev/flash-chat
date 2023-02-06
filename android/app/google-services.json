@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "750870518656",
+    "project_id": "flash-chat-fa894",
+    "storage_bucket": "flash-chat-fa894.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:750870518656:android:8420028611d785a6d4ff65",
+        "android_client_info": {
+          "package_name": "com.miladrami.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "750870518656-vdu5ppmvtoj0o8p3e4ksei5q5fa0pgsa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHYoxycSl9IA5DPE2dhVftcHEjlgwPqWc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "750870518656-vdu5ppmvtoj0o8p3e4ksei5q5fa0pgsa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
